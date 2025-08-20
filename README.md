@@ -1,12 +1,46 @@
-# React + Vite
+# ⚡ ReactJS Calculator  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern calculator built with **ReactJS** – clean UI, fast performance, and fun interactive vibes!  
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🎮 Playful Interactivity  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+*(Watch the snake eat your GitHub contributions 😎 — inspired by classic games)*  
+
+---
+
+## 🖱️ Try It Out  
+
+[![Open in GitHub Pages](https://img.shields.io/badge/Live%20Demo-Click%20Here-blue?style=for-the-badge&logo=react)](https://your-username.github.io/calculator)  
+
+---
+
+## ⭐ Features  
+- Built with **ReactJS** ⚛️  
+- Basic & advanced operations ➕ ➖ ✖️ ➗  
+- Clean responsive UI 💻📱  
+- Fun GitHub Snake Game animation 🐍  
+- Laptop-style preview of the app  
+
+---
+
+## ⚡ Installation  
+
+```bash
+# Clone the repo
+git clone https://github.com/your-username/calculator.git
+
+# Navigate to project
+cd calculator
+
+# Install dependencies
+npm install
+
+# Run the app
+npm start
